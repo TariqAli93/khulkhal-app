@@ -1,0 +1,16 @@
+{
+    "prettier/prettier": [
+        {
+            "singleQuote": true,
+            "parser": "vue",
+            "bracketSameLine": false,
+            "arrowParens": "avoid",
+            "trailingComma": "none",
+            "semi": false,
+            "printWidth": 120,
+            "tabWidth": 4,
+            "useTabs": true,
+            "endOfLine": "auto"
+        }
+    ]
+}
